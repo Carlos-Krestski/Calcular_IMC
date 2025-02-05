@@ -1,2 +1,2 @@
 # CalcularIMC
-Calcula o IMC
+Calcula o IMC.
